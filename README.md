@@ -1,4 +1,5 @@
-![logo](https://media.licdn.com/dms/image/D5616AQEqqf7D-q55DQ/profile-displaybackgroundimage-shrink_350_1400/0/1710086188736?e=1715817600&v=beta&t=Lu2i6y6N4cPKyQRk3Ggb84DKv0Hresxe2n5di9BNvHc)
+<img width="1320" height="330" alt="image" src="https://github.com/user-attachments/assets/1b11b040-6025-4d3d-ba09-242c1a611ecb" />
+
 <h1 align="center">Hi 👋, I'm Md Khalid</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img alighn="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  >
