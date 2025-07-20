@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Khalid</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b336c5a8-a1c7-41a6-b893-6c556379170f" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/b336c5a8-a1c7-41a6-b893-6c556379170f" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhalidgithub&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhalidgithub" /> </p>
 
